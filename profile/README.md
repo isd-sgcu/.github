@@ -21,7 +21,7 @@ Walk around Chulalongkorn University with CU Wander to gain points and redeem re
 ## Fresher's Fair 65
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/isd-sgcu/.github/master/profile/assets/rnkm65.jpeg">
+  <img width="300" src="https://raw.githubusercontent.com/isd-sgcu/.github/master/profile/assets/rnkm65.jpeg">
 </p>
 
 The website for Rub Puen Kao Mai 2023 (Fresher's Fair 65).
