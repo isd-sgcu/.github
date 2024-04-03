@@ -21,7 +21,7 @@ Interactive website for CU-TU Unity Football Match 2024. [[Repo](https://github.
 ## CU Open House 2024
 
 <p align="center">
-  <img src="https://github.com/isd-sgcu/.github/assets/28398789/48a1ed40-ed57-4b86-a7ad-090bfaf4f978">
+  <img width="300" src="https://github.com/isd-sgcu/.github/assets/28398789/48a1ed40-ed57-4b86-a7ad-090bfaf4f978">
 </p>
 
 Website for CU Open House 2024. [[Frontend Repo](https://github.com/isd-sgcu/oph66-frontend)] [[Backend Repo](https://github.com/isd-sgcu/oph66-backend)]
