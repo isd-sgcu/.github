@@ -1,14 +1,30 @@
+# Hi, we are ISD!
+
 <p align="center">
     <a href="https://github.com/isd-sgcu">
-        <img src="https://raw.githubusercontent.com/isd-sgcu/.github/master/profile/assets/sgcu.png">
+        <img src="https://github.com/isd-sgcu/.github/assets/28398789/df56647b-a140-4eb3-920a-5931d20eaec1" width="750">
     </a>
 </p>
-
-# Hi, we are ISD!
 
 The Information System Development Department (ISD) is a department of the Student Government of Chulalongkorn University (SGCU). We are a group of students who are passionate about technology who work together to develop and maintain various projects that benefit the Chulalongkorn University community.
 
 # Our Projects
+
+## CU-TU Unity Fooball Match 2024
+
+<p align="center">
+  <a href="https://github.com/isd-sgcu/cutu-2024"><img width="300" src="https://github.com/isd-sgcu/.github/assets/28398789/818dbad3-b7f6-4e88-8b69-1c37dbf6c996"></a>
+</p>
+
+Interactive website for CU-TU Unity Football Match 2024. [[Repo](https://github.com/isd-sgcu/cutu-2024)]
+
+## CU Open House 2024
+
+<p align="center">
+  <img src="https://github.com/isd-sgcu/.github/assets/28398789/48a1ed40-ed57-4b86-a7ad-090bfaf4f978">
+</p>
+
+Website for CU Open House 2024. [[Frontend Repo](https://github.com/isd-sgcu/oph66-frontend)] [[Backend Repo](https://github.com/isd-sgcu/oph66-backend)]
 
 ## CU Wander
 
