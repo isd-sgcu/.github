@@ -26,6 +26,14 @@ Interactive website for CU-TU Unity Football Match 2024. [[Repo](https://github.
 
 Website for CU Open House 2024. [[Frontend Repo](https://github.com/isd-sgcu/oph66-frontend)] [[Backend Repo](https://github.com/isd-sgcu/oph66-backend)]
 
+## Rub Puen Kao Mai 66 (2023)
+
+<p align="center">
+  <img width="300" src="https://github.com/isd-sgcu/.github/assets/28398789/e3c1de25-62bd-4b40-a81a-3da14f477c33">
+</p>
+
+Website for Rub Puen Kao Mai 2023.
+
 ## CU Wander
 
 <p align="center">
